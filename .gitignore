@@ -1,6 +1,7 @@
 # local files
 WeatherPy/.ipynb_checkpoints
 VacationPy/config.py
+WeatherPy/config.py
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
