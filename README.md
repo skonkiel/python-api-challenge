@@ -1,4 +1,4 @@
-# python-api-challenge
+# vacaction-finder
 
 ## Project background
 
