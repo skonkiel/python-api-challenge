@@ -1,4 +1,4 @@
-# vacaction-finder
+# vacation-finder
 
 ## Project background
 
